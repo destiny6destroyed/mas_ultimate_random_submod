@@ -18,7 +18,7 @@
     - Auto Hair Change (https://github.com/multimokia/MAS-Submod-Auto-Outfit-Change)
     - MAS Selector City (https://github.com/mayday-mayjay/MJ-MAS-selector-city)
     - Monika After Story Clothing Saver (https://github.com/Friends-of-Monika/mas-outfits)
-    - Go to the "Releases" tab on the right this webpage, then click on the latest version of "Ultimate Random Submod". To download, click on Shimeji_Submod.zip to begin.
+    - Go to the "Releases" tab on the right this webpage (or click [HERE](https://github.com/destiny6destroyed/mas_ultimate_random_submod/releases)), then click on the latest version of "Ultimate Random Submod". To download, click on Shimeji_Submod.zip to begin.
     - Unzip and copy the 'game' folder into the main 'Doki Doki Literature Club' folder (AKA, the folder where you see 'DDLC.exe').
 
 3. You can edit the hair's ex_props inside the json files to make the hairstyles match with the ribbons you need to set up the random as you wish
