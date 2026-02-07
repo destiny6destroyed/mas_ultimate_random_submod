@@ -3,19 +3,23 @@
 ## MAS Ultimate Random Submod
 
 1. What this submod do?
-    - Ask her to change her outfit (including accessories) and desk randomly 
-    - Works together with the "Auto Hair Change" submod, so she will change or remove more accessories depending the day time and when we take her somewhere
+    - Ask her to change her outfit (including accessories) and desk randomly with "Can you change your outfit?" and "Can you reorganize your desk?"
+    - Works together with the "Auto Hair Change" submod, so she will change or remove more accessories depending the day time and when we take her somewhere (also it has the "Enable True Random" in settings/submod, which you can deactivate it if you want to only random her acs and follow the 'Auto Outfit Change' submod
     - She will check for errors in the json files and tell you which files there are problems inside (please read point 4)
-    - She changes her location and reorganizes her desk depending the time of the day (except if we take her somewhere)
+    - She changes her location and reorganizes her desk depending the time of the day (except if we take her somewhere or the game crashes)
     - Ribbons match her hairstyle (please read point 3)
     - You can repeat the random without losing affection, so don't worry to tell her, she won't take it personally
-    - During Halloween, Christmas and New Year, Monika will remove the extra accessories that doesn't go with her outfit
+    - During Halloween and Valentine's Day, Monika will remove the extra accessories that doesn't go with her event outfit (not Chrismas and New Year yet)
+    - If you like an outfit really much, there is the "SUPER NAILED IT!" option, which let Monika know you really liked the outfit and save it with Clothing Saver
+    - There is an 5% chance you get an outfit you saved during the random chooses
 
 
 2. To make this submod work, you need:
     - Auto Hair Change (https://github.com/multimokia/MAS-Submod-Auto-Outfit-Change)
     - MAS Selector City (https://github.com/mayday-mayjay/MJ-MAS-selector-city)
     - Monika After Story Clothing Saver (https://github.com/Friends-of-Monika/mas-outfits)
+    - Go to the "Releases" tab on the right this webpage, then click on the latest version of "Ultimate Random Submod". To download, click on Shimeji_Submod.zip to begin.
+    - Unzip and copy the 'game' folder into the main 'Doki Doki Literature Club' folder (AKA, the folder where you see 'DDLC.exe').
 
 3. You can edit the hair's ex_props inside the json files to make the hairstyles match with the ribbons you need to set up the random as you wish
 
