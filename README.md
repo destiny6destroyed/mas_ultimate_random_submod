@@ -12,6 +12,7 @@
     - During Halloween and Valentine's Day, Monika will remove the extra accessories that doesn't go with her event outfit (not Chrismas and New Year yet)
     - If you like an outfit really much, there is the "SUPER NAILED IT!" option, which let Monika know you really liked the outfit and save it with Clothing Saver
     - There is an 5% chance you get an outfit you saved during the random chooses
+    - Custom Random mode: You can choose what elements stay and what elements are changed when you start MAS (including Locations, but excluding clothes and hairs)
 
 
 2. To make this submod work, you need:
